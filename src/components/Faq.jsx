@@ -1,11 +1,11 @@
 import React from 'react';
 
-import NavBar from './Minecraft/NavBar';
-import About from './Minecraft/About';
-import Packages from './Minecraft/Packages';
-import Footer from './Minecraft/Footer';
+import NavBar from './Databaze/NavBar';
+import About from './Databaze/About';
+import Packages from './Databaze/Packages';
+import Footer from './Databaze/Footer';
 
-export function Minecraft() {
+export function Faq() {
   return (
     <div className=' overflow-x-hidden'>
       <div className='bg-neutral-950 w-screen h-[75px]'>
@@ -26,4 +26,4 @@ export function Minecraft() {
   );
 }
 
-export default Minecraft;
+export default Faq;

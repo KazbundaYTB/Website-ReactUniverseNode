@@ -6,7 +6,10 @@ import {
   RouterProvider
 } from "react-router-dom";
 import App from "./App";
-import Minecraft from "./components/Minecraft"; // Import Minecraft komponenty
+import Minecraft from "./components/Minecraft";
+import WebHost from "./components/WebHost";
+import Databaze from "./components/Databaze";
+
 import "./index.css";
 
 const router = createBrowserRouter([
@@ -16,7 +19,19 @@ const router = createBrowserRouter([
     
   },
   {
-    path: "/minecraft", // Přidáme routu pro Minecraft
+    path: "/minecraft",
+    element: <Minecraft />,
+  },
+  {
+    path: "/databaze",
+    element: <Databaze />,
+  },
+  {
+    path: "/webhost",
+    element: <WebHost />,
+  },
+  {
+    path: "/faq",
     element: <Minecraft />,
   },
 ]);

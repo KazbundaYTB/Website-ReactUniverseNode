@@ -1,11 +1,11 @@
 import React from 'react';
 
-import NavBar from './Minecraft/NavBar';
-import About from './Minecraft/About';
-import Packages from './Minecraft/Packages';
-import Footer from './Minecraft/Footer';
+import NavBar from './WebHost/NavBar';
+import About from './WebHost/About';
+import Packages from './WebHost/Packages';
+import Footer from './WebHost/Footer';
 
-export function Minecraft() {
+export function WebHost() {
   return (
     <div className=' overflow-x-hidden'>
       <div className='bg-neutral-950 w-screen h-[75px]'>
@@ -26,4 +26,4 @@ export function Minecraft() {
   );
 }
 
-export default Minecraft;
+export default WebHost;
