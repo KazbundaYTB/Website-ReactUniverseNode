@@ -1,0 +1,11 @@
+
+{
+    "pages": {
+      "/minecraft": {
+        "title": "Minecraft Page",
+        "description": "This is the Minecraft page of my React app.",
+        "icon": "minecraft-icon.png"
+      }
+    }
+  }
+  

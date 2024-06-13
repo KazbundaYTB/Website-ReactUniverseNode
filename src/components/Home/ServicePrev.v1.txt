@@ -1,0 +1,33 @@
+{/* <div className='bg-white w-[350px] h-[350px] rounded-3xl flex flex-col justify-center items-center text-2xl hover:-translate-y-10 transition duration-300'>
+        <img src={MinecraftIcon} alt="" className='w-[80px] -translate-y-16'/>
+        <h1 className='-translate-y-16 font-bold'>MINECRAFT</h1>
+        <div className='w-[125px] h-[1px] bg-black -translate-y-16'></div>
+        <span className='-translate-y-12 text-xl'>U nás již od 100Kč měsíčně!</span>
+
+        <button className='bg-green-500 px-8 py-2 rounded-full text-white'> 
+          <a href="http://">Přejít na produkt</a>
+        </button>
+      </div>
+
+      <div className='bg-white w-[350px] h-[350px] rounded-3xl flex flex-col justify-center items-center text-2xl hover:-translate-y-10 transition duration-300'>
+        <img src={MinecraftIcon} alt="" className='w-[80px] -translate-y-16'/>
+        <h1 className='-translate-y-16 font-bold'>MINECRAFT</h1>
+        <div className='w-[125px] h-[1px] bg-black -translate-y-16'></div>
+        <span className='-translate-y-12 text-xl'>U nás již od 100Kč měsíčně!</span>
+
+        <button className='bg-green-500 px-8 py-2 rounded-full text-white'> 
+          <a href="http://">Přejít na produkt</a>
+        </button>
+      </div>
+
+      <div className='bg-white w-[350px] h-[350px] rounded-3xl flex flex-col justify-center items-center text-2xl hover:-translate-y-10 transition duration-300'>
+        <img src={MinecraftIcon} alt="" className='w-[80px] -translate-y-16'/>
+        <h1 className='-translate-y-16 font-bold'>MINECRAFT</h1>
+        <div className='w-[125px] h-[1px] bg-black -translate-y-16'></div>
+        <span className='-translate-y-12 text-xl'>U nás již od 100Kč měsíčně!</span>
+
+        <button className='bg-green-500 px-8 py-2 rounded-full text-white'> 
+          <a href="http://">Přejít na produkt</a>
+        </button>
+      </div>
+       */}
