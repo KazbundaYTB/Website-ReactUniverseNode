@@ -15,7 +15,7 @@ export function WebHost() {
       <div className='bg-neutral-800  w-screen h-[480px] '>
         <About />
       </div>
-      <div className='bg-neutral-900 w-screen h-[850px] '>
+      <div className='bg-neutral-900 w-screen h-[650px] '>
         <Packages />
       </div>
 
