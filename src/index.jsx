@@ -9,6 +9,7 @@ import App from "./App";
 import Minecraft from "./components/Minecraft";
 import WebHost from "./components/WebHost";
 import Databaze from "./components/Databaze";
+import Faq from "./components/Faq";
 
 import "./index.css";
 
@@ -32,7 +33,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/faq",
-    element: <Minecraft />,
+    element: <Faq />,
   },
 ]);
 

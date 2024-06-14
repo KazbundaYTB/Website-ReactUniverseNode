@@ -13,7 +13,7 @@ export default function NavBar() {
         <li><a href="/minecraft"><button className='flex items-center space-x-2 font-bold'> <TbBrandMinecraft /> <span>Minecraft</span> </button></a></li>
         <li><a href="/webhost"><button className='flex items-center space-x-2 font-bold'> <CgWebsite /> <span>WebHost</span> </button></a></li>
         <li><a href="/databaze"><button className='flex items-center space-x-2 font-bold'> <FaDatabase /> <span>Databáze</span> </button></a></li>
-        <li><a href="/faq"><button className='flex items-center space-x-2 font-bold'> <FaQuestion /> <span>FAQ</span> </button></a></li>
+        {/* <li><a href="/faq"><button className='flex items-center space-x-2 font-bold'> <FaQuestion /> <span>FAQ</span> </button></a></li> */}
       </ul>
     </div>
   );

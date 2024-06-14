@@ -1,9 +1,9 @@
 import React from 'react';
 
-import NavBar from './Databaze/NavBar';
-import About from './Databaze/About';
-import Packages from './Databaze/Packages';
-import Footer from './Databaze/Footer';
+import NavBar from './Faq/NavBar';
+import About from './Faq/About';
+import Questions from './Faq/Questions';
+import Footer from './Faq/Footer';
 
 export function Faq() {
   return (
@@ -16,7 +16,7 @@ export function Faq() {
         <About />
       </div>
       <div className='bg-neutral-900 w-screen h-[850px] '>
-        <Packages />
+        <Questions />
       </div>
 
       <div className='bg-gray-800 w-screen h-[75px]'>

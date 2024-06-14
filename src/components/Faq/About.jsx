@@ -8,8 +8,8 @@ export default function About() {
           <div className="relative w-full h-full flex justify-center items-center">
             <img src={Databaze} alt="" className="absolute inset-0 w-full h-full object-cover" />
             <div className=" w-full h-[480px] bg-black bg-opacity-50 p-4 text-white text-center relative flex flex-col justify-center items-center">
-              <h1 className="text-7xl font-bold">Databázový Hosting</h1>
-              <p className="text-xl mt-2">Rozjeďte svou vlastní databázi již od 75Kč / €3,04.</p>
+              <h1 className="text-7xl font-bold">FAQ</h1>
+              <p className="text-xl mt-2">Nejčastěji kladené otázky.</p>
             </div>
           </div>
     </div>
