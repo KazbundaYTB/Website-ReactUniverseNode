@@ -27,14 +27,14 @@ export default function ServicePreview() {
     },
     {
       title: "Web Hosting",
-      description: "Rozjeďte svůj vlastní Webovou stránku již od 35Kč / €1,42.",
-      link: "/web",
+      description: "Rozjeďte svou vlastní webovou stránku již od 35Kč / €1,42.",
+      link: "/webhost",
       linkText: "Více informací",
       image: WebHosting,
     },
     {
       title: "Databázový Hosting",
-      description: "Rozjeďte svůj vlastní Minecraftový server již od 75Kč / €3,04.",
+      description: "Rozjeďte svou vlastní databázi již od 75Kč / €3,04.",
       link: "/databaze",
       linkText: "Více informací",
       image: Databaze,
