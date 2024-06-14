@@ -15,6 +15,10 @@ export default function NavBar() {
         <li><a href="/databaze"><button className='flex items-center space-x-2 font-bold'> <FaDatabase /> <span>Databáze</span> </button></a></li>
         {/* <li><a href="/faq"><button className='flex items-center space-x-2 font-bold'> <FaQuestion /> <span>FAQ</span> </button></a></li> */}
       </ul>
+      <div className=' flex gap-2'>
+      <a href="/Panel"><button className=' translate-x-96 px-10 py-2 bg-blue-600 hover:bg-blue-500 rounded-xl'> Panel</button></a>
+      <a href="/client"><button className=' translate-x-96 px-10 py-2 bg-blue-600 hover:bg-blue-500 rounded-xl'> Client</button></a>
+      </div>
     </div>
   );
 }
