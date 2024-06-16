@@ -138,7 +138,7 @@ export default function Packages() {
                   <img src={Netherite} alt="" className='w-[64px] h-[64px]'/>
                 </div>
                 <div className='text-2xl text-white pt-3 font-bold'>Netherite</div>
-                <div className='text-xl font-bold text-white '>300Kč/měsíc </div>
+                <div className='text-xl font-bold text-white '>450Kč/měsíc </div>
                 <div className='mt-2 -translate-x-2'>
                   <h1 className='text-xl text-white pt-3 flex flex-row items-center'><FaMicrochip style={{ marginRight: '5px' }} /> 7x vCPU</h1>
                   <h1 className='text-xl text-white pt-3 flex items-center'><FaMemory style={{ marginRight: '5px' }} /> 7GB Ram</h1>
@@ -157,7 +157,7 @@ export default function Packages() {
                   <img src={Beacon} alt="" className='w-[64px] h-[64px]'/>
                 </div>
                 <div className='text-2xl text-white pt-3 font-bold'>Beacon</div>
-                <div className='text-xl font-bold text-white '>350Kč/měsíc </div>
+                <div className='text-xl font-bold text-white '>550Kč/měsíc </div>
                 <div className='mt-2 -translate-x-2'>
                   <h1 className='text-xl text-white pt-3 flex flex-row items-center'><FaMicrochip style={{ marginRight: '5px' }} /> 8x vCPU</h1>
                   <h1 className='text-xl text-white pt-3 flex items-center'><FaMemory style={{ marginRight: '5px' }} /> 8GB Ram</h1>
